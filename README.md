@@ -27,20 +27,12 @@ variant 35.5, aggressive 26.
 lc0-standard/   lc0-variant/   lc0-winonly/   lc0-aggressive/
 scripts/        berlin_tournament.py, run_h1_ablation.py, run_h3_match.py, analyze_tournament_pgns.py
 tournament/     PGN + results.json for every retained match
-Diploma versions/   Albanian thesis, English thesis, proposal
 docs/PROJECT.md
 ```
 
 Engine folders ignore `checkpoints/` and `*.pt`. The four freeze files
 `*/checkpoints/run10k/*-games003440.pt` are in git. Intermediate training
-snapshots are not.
-
-## Submitted Word files
-
-- Albanian: `Diploma versions/Albanian Version/Punim_Diplome_Veteluajtja_Asimetrike_Berlin.docx`
-- Faculty filename: `Diploma versions/Albanian Version/Tema_Diplomes_Alban final.docx`
-- English: `Diploma versions/English Version/Thesis_Asymmetric_SelfPlay_Berlin_Defence.docx`
-- Proposal: `Diploma versions/Thesis Proposal/Dissertation_Proposal_Asymmetric_SelfPlay_Berlin_Krasniqi.docx`
+snapshots are not. Faculty Word files are not in this repository.
 
 ## Nibbler
 

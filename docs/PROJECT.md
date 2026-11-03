@@ -43,13 +43,10 @@ Tema-E-Diplomes/
 ├── lc0-winonly/           H3 one-net, asymmetric Q (not in the H1 corpus)
 ├── lc0-aggressive/        H4 checkpoint; match uses WhiteQ=winonly
 ├── scripts/               tournaments, ablation, H3 match, PGN stats
-├── tournament/            PGN + results.json for every match
-├── Diploma versions/      submitted thesis and proposal files
-├── Punim_Diplome_Veteluajtja_Asimetrike_Berlin.docx
-└── Tema_Diplomes_Alban final.docx
+└── tournament/            PGN + results.json for every match
 ```
 
-Root `scripts/` holds only the four match/analysis programs listed below. There is no `thesis_figures/` folder; the figures live inside the Word files.
+Root `scripts/` holds only the four match/analysis programs listed below. Faculty Word files are not in this repository. There is no `thesis_figures/` folder.
 
 Each engine folder follows the same shape:
 
@@ -290,16 +287,7 @@ H3 Black \(s=0.28\) is in the same neighbourhood as H1 variant Black \(s=0.29\).
 
 ## 9. Word thesis
 
-Canonical copies:
-
-| Document | Path |
-| --- | --- |
-| Albanian thesis | `Diploma versions/Albanian Version/Punim_Diplome_Veteluajtja_Asimetrike_Berlin.docx` |
-| Albanian faculty filename | `Diploma versions/Albanian Version/Tema_Diplomes_Alban final.docx` |
-| English thesis | `Diploma versions/English Version/Thesis_Asymmetric_SelfPlay_Berlin_Defence.docx` |
-| Proposal | `Diploma versions/Thesis Proposal/Dissertation_Proposal_Asymmetric_SelfPlay_Berlin_Krasniqi.docx` |
-
-The two Albanian `.docx` files at the repo root are the same Punim as the Albanian Version folder. Figures are embedded in those Word files (captions in the document; there is no `thesis_figures/` tree in this repository).
+The faculty Word / PDF files are **not** stored in this git repository. This file plus `tournament/` is the technical record. Figures live in the Word documents kept outside the repo.
 
 ---
 
@@ -391,10 +379,6 @@ Long GPU jobs are better launched from **CMD**, not from an IDE terminal that ma
 
 | Artefact | Path |
 | --- | --- |
-| Thesis (Albanian) | `Diploma versions/Albanian Version/Punim_Diplome_Veteluajtja_Asimetrike_Berlin.docx` |
-| Faculty filename | `Diploma versions/Albanian Version/Tema_Diplomes_Alban final.docx` |
-| Thesis (English) | `Diploma versions/English Version/Thesis_Asymmetric_SelfPlay_Berlin_Defence.docx` |
-| Proposal | `Diploma versions/Thesis Proposal/Dissertation_Proposal_Asymmetric_SelfPlay_Berlin_Krasniqi.docx` |
 | H1 PGN | `tournament/berlin_std_white_vs_var_black_g3440/games/` |
 | Control PGN | `tournament/berlin_std_white_vs_std_black_g3440/games/` |
 | Auxiliary PGN | `tournament/berlin_var_white_vs_std_black_g3440/games/` |
