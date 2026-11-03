@@ -1,0 +1,55 @@
+# Thesis variant: two specialists co-evolve in one process (see VARIANT.md).
+# White: win=draw. Black: draw=loss. DualNetworkBackend routes by side-to-move.
+device: cuda
+weights_path: ""
+seed: 1
+
+# Scaled for an RTX 4060 8 GB. Paper-scale 10x128 / 20x256 are in configs/paper.yaml.
+network:
+  blocks: 6
+  filters: 64
+  se_channels: 16
+  policy_head: convolution
+  value_head: wdl
+  mlh_channels: 8
+  mlh_fc: 128
+
+search:
+  cpuct: 1.745
+  cpuct_base: 38739.0
+  cpuct_factor: 3.894
+  fpu_strategy: reduction
+  fpu_value: 0.330
+  policy_softmax_temp: 1.61
+  minibatch_size: 32
+  max_collision_events: 32
+  dirichlet_alpha: 0.3
+  dirichlet_epsilon: 0.25
+  two_fold_draws: true
+
+train:
+  visits: 120
+  temperature: 1.0
+  temp_decay_moves: 15
+  max_game_ply: 512
+  batch_size: 128
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  mlh_weight: 0.05
+  policy_weight: 1.0
+  value_weight: 1.0
+  games_per_iteration: 8
+  train_steps_per_iteration: 100
+  replay_size: 20000
+  checkpoint_every: 10
+  # Specialist start, same idea as LeelaKnightOdds / QueenOdds / RookOdds.
+  opening_name: Berlin Defence
+  opening_pgn: "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6"
+  opening_fen: r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
+  opening_moves:
+    - e2e4
+    - e7e5
+    - g1f3
+    - b8c6
+    - f1b5
+    - g8f6

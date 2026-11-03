@@ -1,0 +1,146 @@
+{
+  "stdW_varB": {
+    "n": 100,
+    "termination": {
+      "STALEMATE": 1,
+      "CHECKMATE": 70,
+      "FIFTY_MOVES": 22,
+      "THREEFOLD_REPETITION": 2,
+      "INSUFFICIENT_MATERIAL": 5
+    },
+    "result": {
+      "1/2-1/2": 30,
+      "1-0": 56,
+      "0-1": 14
+    },
+    "white_move_4": {
+      "Nd4": 38,
+      "h4": 17,
+      "c4": 14,
+      "b3": 8,
+      "c3": 3,
+      "h3": 3,
+      "Nxe5": 3,
+      "Kf1": 2,
+      "O-O": 2,
+      "Rf1": 2,
+      "Ng5": 1,
+      "b4": 1
+    },
+    "qxd8_games": 1,
+    "c67_exact_fen": 0,
+    "both_queens_off": 0,
+    "mean_ply": 208.8,
+    "median_ply": 178,
+    "min_ply": 25,
+    "max_ply": 477
+  },
+  "stdW_stdB": {
+    "n": 100,
+    "termination": {
+      "CHECKMATE": 54,
+      "INSUFFICIENT_MATERIAL": 15,
+      "THREEFOLD_REPETITION": 22,
+      "FIFTY_MOVES": 8,
+      "STALEMATE": 1
+    },
+    "result": {
+      "0-1": 29,
+      "1/2-1/2": 46,
+      "1-0": 25
+    },
+    "white_move_4": {
+      "Nd4": 30,
+      "h4": 21,
+      "c4": 18,
+      "b3": 12,
+      "h3": 5,
+      "Ng5": 2,
+      "O-O": 2,
+      "Ng1": 2,
+      "Ba6": 1,
+      "Bd3": 1,
+      "g3": 1,
+      "c3": 1
+    },
+    "qxd8_games": 0,
+    "c67_exact_fen": 0,
+    "both_queens_off": 0,
+    "mean_ply": 156.8,
+    "median_ply": 144,
+    "min_ply": 19,
+    "max_ply": 361
+  },
+  "varW_stdB": {
+    "n": 100,
+    "termination": {
+      "INSUFFICIENT_MATERIAL": 10,
+      "THREEFOLD_REPETITION": 17,
+      "CHECKMATE": 69,
+      "FIFTY_MOVES": 3,
+      "STALEMATE": 1
+    },
+    "result": {
+      "1/2-1/2": 31,
+      "0-1": 49,
+      "1-0": 20
+    },
+    "white_move_4": {
+      "c3": 18,
+      "d4": 17,
+      "Nc3": 15,
+      "Nxe5": 11,
+      "Bf1": 11,
+      "h4": 4,
+      "O-O": 3,
+      "Ke2": 3,
+      "d3": 2,
+      "g4": 2,
+      "b3": 2,
+      "Ng1": 2
+    },
+    "qxd8_games": 0,
+    "c67_exact_fen": 0,
+    "both_queens_off": 0,
+    "mean_ply": 173.7,
+    "median_ply": 166,
+    "min_ply": 19,
+    "max_ply": 479
+  },
+  "aggW_stdB": {
+    "n": 100,
+    "termination": {
+      "CHECKMATE": 70,
+      "FIFTY_MOVES": 21,
+      "THREEFOLD_REPETITION": 2,
+      "adjudication": 3,
+      "INSUFFICIENT_MATERIAL": 4
+    },
+    "result": {
+      "1-0": 11,
+      "1/2-1/2": 30,
+      "0-1": 59
+    },
+    "white_move_4": {
+      "Nh4": 19,
+      "g3": 12,
+      "Ke2": 11,
+      "Nd4": 10,
+      "h3": 8,
+      "h4": 7,
+      "Qe2": 4,
+      "a3": 4,
+      "Na3": 4,
+      "Nc3": 3,
+      "c4": 3,
+      "Kf1": 3
+    },
+    "qxd8_games": 0,
+    "c67_exact_fen": 0,
+    "both_queens_off": 0,
+    "mean_ply": 222.1,
+    "median_ply": 186,
+    "min_ply": 36,
+    "max_ply": 518
+  }
+}

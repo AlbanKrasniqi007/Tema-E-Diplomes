@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "games_completed": 1,
+    "games_target": 1,
+    "all_berlin_ok": true,
+    "fixed_colors": "White=lc0-standard Black=lc0-standard",
+    "scoreline": "standard 0 - 1 standard",
+    "white_wins": 0,
+    "black_wins": 1,
+    "draws": 0,
+    "white_points": 0.0,
+    "black_points": 1.0,
+    "white_score_pct": 0.0,
+    "black_score_pct": 100.0
+  },
+  "games": [
+    {
+      "file": "game_001.pgn",
+      "round": "1",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-standard (games 3440, Q=drawscore)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 144
+    }
+  ]
+}

@@ -1,0 +1,1827 @@
+{
+  "event": "Berlin match: lc0-standard (White) vs lc0-variant (Black)",
+  "white": "lc0-standard (games 3440)",
+  "black": "lc0-variant (games 3440)",
+  "white_weights": "C:\\Users\\Admin\\Desktop\\Tema-E-Diplomes\\lc0-standard\\checkpoints\\run10k\\lc0-standard-games003440.pt",
+  "black_weights": "C:\\Users\\Admin\\Desktop\\Tema-E-Diplomes\\lc0-variant\\checkpoints\\run10k\\lc0-variant-games003440.pt",
+  "visits": 120,
+  "temperature_after_berlin": 1.0,
+  "temp_moves_after_berlin": 8,
+  "opening": "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6",
+  "opening_fen": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+  "fixed_colors": true,
+  "summary": {
+    "games_completed": 100,
+    "games_target": 100,
+    "all_berlin_ok": true,
+    "fixed_colors": "White=lc0-standard Black=lc0-variant",
+    "scoreline": "standard 71 - 29 variant",
+    "white_wins": 56,
+    "black_wins": 14,
+    "draws": 30,
+    "white_points": 71.0,
+    "black_points": 29.0
+  },
+  "games": [
+    {
+      "file": "game_001.pgn",
+      "round": "1",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 251
+    },
+    {
+      "file": "game_002.pgn",
+      "round": "2",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 135
+    },
+    {
+      "file": "game_003.pgn",
+      "round": "3",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 66
+    },
+    {
+      "file": "game_004.pgn",
+      "round": "4",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 411
+    },
+    {
+      "file": "game_005.pgn",
+      "round": "5",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 287
+    },
+    {
+      "file": "game_006.pgn",
+      "round": "6",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 77
+    },
+    {
+      "file": "game_007.pgn",
+      "round": "7",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 83
+    },
+    {
+      "file": "game_008.pgn",
+      "round": "8",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 83
+    },
+    {
+      "file": "game_009.pgn",
+      "round": "9",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 193
+    },
+    {
+      "file": "game_010.pgn",
+      "round": "10",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 250
+    },
+    {
+      "file": "game_011.pgn",
+      "round": "11",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 268
+    },
+    {
+      "file": "game_012.pgn",
+      "round": "12",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 69
+    },
+    {
+      "file": "game_013.pgn",
+      "round": "13",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 172
+    },
+    {
+      "file": "game_014.pgn",
+      "round": "14",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 281
+    },
+    {
+      "file": "game_015.pgn",
+      "round": "15",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 165
+    },
+    {
+      "file": "game_016.pgn",
+      "round": "16",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 452
+    },
+    {
+      "file": "game_017.pgn",
+      "round": "17",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 139
+    },
+    {
+      "file": "game_018.pgn",
+      "round": "18",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 75
+    },
+    {
+      "file": "game_019.pgn",
+      "round": "19",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 283
+    },
+    {
+      "file": "game_020.pgn",
+      "round": "20",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 91
+    },
+    {
+      "file": "game_021.pgn",
+      "round": "21",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 477
+    },
+    {
+      "file": "game_022.pgn",
+      "round": "22",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 206
+    },
+    {
+      "file": "game_023.pgn",
+      "round": "23",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 35
+    },
+    {
+      "file": "game_024.pgn",
+      "round": "24",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 307
+    },
+    {
+      "file": "game_025.pgn",
+      "round": "25",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 302
+    },
+    {
+      "file": "game_026.pgn",
+      "round": "26",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 135
+    },
+    {
+      "file": "game_027.pgn",
+      "round": "27",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 473
+    },
+    {
+      "file": "game_028.pgn",
+      "round": "28",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 85
+    },
+    {
+      "file": "game_029.pgn",
+      "round": "29",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 117
+    },
+    {
+      "file": "game_030.pgn",
+      "round": "30",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 173
+    },
+    {
+      "file": "game_031.pgn",
+      "round": "31",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 327
+    },
+    {
+      "file": "game_032.pgn",
+      "round": "32",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 137
+    },
+    {
+      "file": "game_033.pgn",
+      "round": "33",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 77
+    },
+    {
+      "file": "game_034.pgn",
+      "round": "34",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 161
+    },
+    {
+      "file": "game_035.pgn",
+      "round": "35",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 97
+    },
+    {
+      "file": "game_036.pgn",
+      "round": "36",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 378
+    },
+    {
+      "file": "game_037.pgn",
+      "round": "37",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 117
+    },
+    {
+      "file": "game_038.pgn",
+      "round": "38",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 438
+    },
+    {
+      "file": "game_039.pgn",
+      "round": "39",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 243
+    },
+    {
+      "file": "game_040.pgn",
+      "round": "40",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 75
+    },
+    {
+      "file": "game_041.pgn",
+      "round": "41",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 121
+    },
+    {
+      "file": "game_042.pgn",
+      "round": "42",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 79
+    },
+    {
+      "file": "game_043.pgn",
+      "round": "43",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 438
+    },
+    {
+      "file": "game_044.pgn",
+      "round": "44",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 391
+    },
+    {
+      "file": "game_045.pgn",
+      "round": "45",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 317
+    },
+    {
+      "file": "game_046.pgn",
+      "round": "46",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 57
+    },
+    {
+      "file": "game_047.pgn",
+      "round": "47",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 420
+    },
+    {
+      "file": "game_048.pgn",
+      "round": "48",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 163
+    },
+    {
+      "file": "game_049.pgn",
+      "round": "49",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 316
+    },
+    {
+      "file": "game_050.pgn",
+      "round": "50",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 115
+    },
+    {
+      "file": "game_051.pgn",
+      "round": "51",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 413
+    },
+    {
+      "file": "game_052.pgn",
+      "round": "52",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 379
+    },
+    {
+      "file": "game_053.pgn",
+      "round": "53",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 321
+    },
+    {
+      "file": "game_054.pgn",
+      "round": "54",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 225
+    },
+    {
+      "file": "game_055.pgn",
+      "round": "55",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 25
+    },
+    {
+      "file": "game_056.pgn",
+      "round": "56",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 99
+    },
+    {
+      "file": "game_057.pgn",
+      "round": "57",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 286
+    },
+    {
+      "file": "game_058.pgn",
+      "round": "58",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 152
+    },
+    {
+      "file": "game_059.pgn",
+      "round": "59",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 152
+    },
+    {
+      "file": "game_060.pgn",
+      "round": "60",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 282
+    },
+    {
+      "file": "game_061.pgn",
+      "round": "61",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 147
+    },
+    {
+      "file": "game_062.pgn",
+      "round": "62",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 258
+    },
+    {
+      "file": "game_063.pgn",
+      "round": "63",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 119
+    },
+    {
+      "file": "game_064.pgn",
+      "round": "64",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 87
+    },
+    {
+      "file": "game_065.pgn",
+      "round": "65",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 150
+    },
+    {
+      "file": "game_066.pgn",
+      "round": "66",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 71
+    },
+    {
+      "file": "game_067.pgn",
+      "round": "67",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 101
+    },
+    {
+      "file": "game_068.pgn",
+      "round": "68",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 220
+    },
+    {
+      "file": "game_069.pgn",
+      "round": "69",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 113
+    },
+    {
+      "file": "game_070.pgn",
+      "round": "70",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 342
+    },
+    {
+      "file": "game_071.pgn",
+      "round": "71",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 183
+    },
+    {
+      "file": "game_072.pgn",
+      "round": "72",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 178
+    },
+    {
+      "file": "game_073.pgn",
+      "round": "73",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 415
+    },
+    {
+      "file": "game_074.pgn",
+      "round": "74",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 324
+    },
+    {
+      "file": "game_075.pgn",
+      "round": "75",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 223
+    },
+    {
+      "file": "game_076.pgn",
+      "round": "76",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 27
+    },
+    {
+      "file": "game_077.pgn",
+      "round": "77",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 135
+    },
+    {
+      "file": "game_078.pgn",
+      "round": "78",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 347
+    },
+    {
+      "file": "game_079.pgn",
+      "round": "79",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 110
+    },
+    {
+      "file": "game_080.pgn",
+      "round": "80",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 95
+    },
+    {
+      "file": "game_081.pgn",
+      "round": "81",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 351
+    },
+    {
+      "file": "game_082.pgn",
+      "round": "82",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 169
+    },
+    {
+      "file": "game_083.pgn",
+      "round": "83",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 376
+    },
+    {
+      "file": "game_084.pgn",
+      "round": "84",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 207
+    },
+    {
+      "file": "game_085.pgn",
+      "round": "85",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 333
+    },
+    {
+      "file": "game_086.pgn",
+      "round": "86",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 83
+    },
+    {
+      "file": "game_087.pgn",
+      "round": "87",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 117
+    },
+    {
+      "file": "game_088.pgn",
+      "round": "88",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 67
+    },
+    {
+      "file": "game_089.pgn",
+      "round": "89",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 181
+    },
+    {
+      "file": "game_090.pgn",
+      "round": "90",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 319
+    },
+    {
+      "file": "game_091.pgn",
+      "round": "91",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 245
+    },
+    {
+      "file": "game_092.pgn",
+      "round": "92",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 401
+    },
+    {
+      "file": "game_093.pgn",
+      "round": "93",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 317
+    },
+    {
+      "file": "game_094.pgn",
+      "round": "94",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 280
+    },
+    {
+      "file": "game_095.pgn",
+      "round": "95",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 51
+    },
+    {
+      "file": "game_096.pgn",
+      "round": "96",
+      "result": "1/2-1/2",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 209
+    },
+    {
+      "file": "game_097.pgn",
+      "round": "97",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 136
+    },
+    {
+      "file": "game_098.pgn",
+      "round": "98",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 137
+    },
+    {
+      "file": "game_099.pgn",
+      "round": "99",
+      "result": "1-0",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 223
+    },
+    {
+      "file": "game_100.pgn",
+      "round": "100",
+      "result": "0-1",
+      "white": "lc0-standard (games 3440)",
+      "black": "lc0-variant (games 3440)",
+      "first_six_uci": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5",
+        "g8f6"
+      ],
+      "berlin_moves_ok": true,
+      "berlin_fen_ok": true,
+      "ply_count": 90
+    }
+  ]
+}

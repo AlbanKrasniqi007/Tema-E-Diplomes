@@ -1,0 +1,23 @@
+{
+  "question": "Does lc0-standard or lc0-variant perform better as White vs lc0-standard Black?",
+  "black_fixed": "lc0-standard",
+  "better_as_white": "lc0-standard",
+  "verdict": "As White against the same lc0-standard Black, lc0-standard scored 48/100 vs lc0-variant White 35.5/100.",
+  "variant_as_white": {
+    "points": 35.5,
+    "wins": 20,
+    "draws": 31,
+    "losses": 49,
+    "score_pct": 35.5,
+    "games": 100
+  },
+  "standard_as_white": {
+    "points": 48.0,
+    "wins": 25,
+    "draws": 46,
+    "losses": 29,
+    "score_pct": 48.0,
+    "games": 100
+  },
+  "point_difference_variant_minus_standard": -12.5
+}

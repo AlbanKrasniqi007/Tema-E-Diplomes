@@ -1,0 +1,46 @@
+{
+  "question": "As a new Black concept (win-only Q=W, one net, classic FPU), how does lc0-winonly score vs lc0-standard White compared with lc0-variant Black and lc0-standard Black at the same self-play freeze?",
+  "white_fixed": "lc0-standard",
+  "checkpoint_games": 3440,
+  "visits": 120,
+  "games": 100,
+  "temp_moves_after_berlin": 8,
+  "better_as_black": "lc0-standard",
+  "ranking_as_black": [
+    "lc0-standard",
+    "lc0-variant",
+    "lc0-winonly"
+  ],
+  "verdict": "As Black against the same lc0-standard White (3440 freeze, 120 visits, N=100): lc0-standard 52/100, lc0-winonly 28/100, lc0-variant 29/100.",
+  "winonly_as_black": {
+    "points": 28.0,
+    "wins": 15,
+    "draws": 26,
+    "losses": 59,
+    "score_pct": 28.0,
+    "games": 100
+  },
+  "variant_as_black": {
+    "points": 29.0,
+    "wins": 14,
+    "draws": 30,
+    "losses": 56,
+    "score_pct": 29.0,
+    "games": 100
+  },
+  "standard_as_black": {
+    "points": 52.0,
+    "wins": 29,
+    "draws": 46,
+    "losses": 25,
+    "score_pct": 52.0,
+    "games": 100
+  },
+  "point_difference_winonly_minus_standard": -24.0,
+  "point_difference_winonly_minus_variant": -1.0,
+  "concept": {
+    "lc0-winonly": "one net; White Q=W-L; Black Q=W; classic FPU negation",
+    "lc0-variant": "dual nets; DrawScore Q; parent-relative FPU",
+    "lc0-standard": "one net; Q=W-L both colors; classic FPU negation"
+  }
+}
